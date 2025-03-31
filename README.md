@@ -2,7 +2,7 @@
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite)](https://vitejs.dev/)
 
-Live Demo: [Click here]([(https://port-folio-c4s5.vercel.app/)])
+Live Demo: [Click here]([https://port-folio-c4s5.vercel.app/])
  <!-- Add actual screenshot -->
 
 A modern, responsive portfolio website showcasing my professional projects, skills, and experience.
